@@ -1,0 +1,16 @@
+{
+  "name": "leaflet-replay-server",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node src/index.js",
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "leaflet-index": "file:..",
+    "sql.js": "^1.13.0"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "time_range": {
+    "start": "2025-07-08",
+    "end": "2025-07-20"
+  },
+  "region": {
+    "name": "YangtzeDeltaWide",
+    "north": 32.8,
+    "west": 118.0,
+    "east": 122.8,
+    "south": 30.0
+  },
+  "output": {
+    "root_dir": "./public/leaflet-index/meteo"
+  },
+  "imerg": {
+    "short_name": "GPM_3IMERGDF",
+    "version": "07",
+    "page_size": 200
+  },
+  "era5": {
+    "variables": [
+      "total_precipitation",
+      "total_cloud_cover"
+    ],
+    "data_format": "netcdf",
+    "product_type": "reanalysis"
+  }
+}

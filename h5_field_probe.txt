@@ -1,0 +1,6 @@
+﻿HDFEOS/GRIDS/VIIRS_Grid_DNB_2d/Data Fields/DNB_BRDF-Corrected_NTL
+HDFEOS/GRIDS/VIIRS_Grid_DNB_2d/Data Fields/Gap_Filled_DNB_BRDF-Corrected_NTL
+HDFEOS/GRIDS/VIIRS_Grid_DNB_2d/Data Fields/Latest_High_Quality_Retrieval
+HDFEOS/GRIDS/VIIRS_Grid_DNB_2d/Data Fields/Mandatory_Quality_Flag
+HDFEOS/GRIDS/VIIRS_Grid_DNB_2d/Data Fields/QF_Cloud_Mask
+HDFEOS/GRIDS/VIIRS_Grid_DNB_2d/Data Fields/Snow_Flag
