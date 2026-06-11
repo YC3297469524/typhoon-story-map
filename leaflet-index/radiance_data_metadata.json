@@ -1,0 +1,37 @@
+{
+  "region": "FixedGlobalFrame",
+  "generatedAt": "2026-05-14T02:11:09.999588Z",
+  "bounds": [
+    [
+      10.0,
+      110.0
+    ],
+    [
+      40.0,
+      130.0
+    ]
+  ],
+  "times": [
+    "2025-06-30T12:00",
+    "2025-07-01T12:00",
+    "2025-07-02T12:00",
+    "2025-07-03T12:00",
+    "2025-07-08T12:00",
+    "2025-07-09T12:00",
+    "2025-07-10T12:00",
+    "2025-07-11T12:00",
+    "2025-07-12T12:00",
+    "2025-07-13T12:00",
+    "2025-07-14T12:00",
+    "2025-07-15T12:00"
+  ],
+  "totalPoints": 4899265,
+  "source": "NOAA VNP46A2",
+  "description": "夜光数据已直接由H5渲染为图片叠加层",
+  "exportScope": "direct-h5-overlay",
+  "pixelStride": 1,
+  "maxPointsPerFile": 0,
+  "lightThreshold": 8.0,
+  "includeNoData": false,
+  "noDataStride": 16
+}

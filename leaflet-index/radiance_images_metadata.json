@@ -1,0 +1,234 @@
+{
+  "type": "radiance-image-overlay",
+  "generatedAt": "2026-05-14T02:11:09.999588Z",
+  "entries": [
+    {
+      "date": "2025-06-30",
+      "image": "leaflet-index/radiance_images/radiance_image_20250630.png",
+      "bounds": [
+        [
+          10.0,
+          110.0
+        ],
+        [
+          40.0,
+          130.0
+        ]
+      ],
+      "count": 481959,
+      "size": [
+        2048,
+        3447
+      ]
+    },
+    {
+      "date": "2025-07-01",
+      "image": "leaflet-index/radiance_images/radiance_image_20250701.png",
+      "bounds": [
+        [
+          10.0,
+          110.0
+        ],
+        [
+          40.0,
+          130.0
+        ]
+      ],
+      "count": 515711,
+      "size": [
+        2048,
+        3447
+      ]
+    },
+    {
+      "date": "2025-07-02",
+      "image": "leaflet-index/radiance_images/radiance_image_20250702.png",
+      "bounds": [
+        [
+          10.0,
+          110.0
+        ],
+        [
+          40.0,
+          130.0
+        ]
+      ],
+      "count": 467048,
+      "size": [
+        2048,
+        3447
+      ]
+    },
+    {
+      "date": "2025-07-03",
+      "image": "leaflet-index/radiance_images/radiance_image_20250703.png",
+      "bounds": [
+        [
+          10.0,
+          110.0
+        ],
+        [
+          40.0,
+          130.0
+        ]
+      ],
+      "count": 24000,
+      "size": [
+        2048,
+        3447
+      ]
+    },
+    {
+      "date": "2025-07-08",
+      "image": "leaflet-index/radiance_images/radiance_image_20250708.png",
+      "bounds": [
+        [
+          10.0,
+          110.0
+        ],
+        [
+          40.0,
+          130.0
+        ]
+      ],
+      "count": 297607,
+      "size": [
+        2048,
+        3447
+      ]
+    },
+    {
+      "date": "2025-07-09",
+      "image": "leaflet-index/radiance_images/radiance_image_20250709.png",
+      "bounds": [
+        [
+          10.0,
+          110.0
+        ],
+        [
+          40.0,
+          130.0
+        ]
+      ],
+      "count": 38991,
+      "size": [
+        2048,
+        3447
+      ]
+    },
+    {
+      "date": "2025-07-10",
+      "image": "leaflet-index/radiance_images/radiance_image_20250710.png",
+      "bounds": [
+        [
+          10.0,
+          110.0
+        ],
+        [
+          40.0,
+          130.0
+        ]
+      ],
+      "count": 719129,
+      "size": [
+        2048,
+        3447
+      ]
+    },
+    {
+      "date": "2025-07-11",
+      "image": "leaflet-index/radiance_images/radiance_image_20250711.png",
+      "bounds": [
+        [
+          10.0,
+          110.0
+        ],
+        [
+          40.0,
+          130.0
+        ]
+      ],
+      "count": 775774,
+      "size": [
+        2048,
+        3447
+      ]
+    },
+    {
+      "date": "2025-07-12",
+      "image": "leaflet-index/radiance_images/radiance_image_20250712.png",
+      "bounds": [
+        [
+          10.0,
+          110.0
+        ],
+        [
+          40.0,
+          130.0
+        ]
+      ],
+      "count": 588609,
+      "size": [
+        2048,
+        3447
+      ]
+    },
+    {
+      "date": "2025-07-13",
+      "image": "leaflet-index/radiance_images/radiance_image_20250713.png",
+      "bounds": [
+        [
+          10.0,
+          110.0
+        ],
+        [
+          40.0,
+          130.0
+        ]
+      ],
+      "count": 307796,
+      "size": [
+        2048,
+        3447
+      ]
+    },
+    {
+      "date": "2025-07-14",
+      "image": "leaflet-index/radiance_images/radiance_image_20250714.png",
+      "bounds": [
+        [
+          10.0,
+          110.0
+        ],
+        [
+          40.0,
+          130.0
+        ]
+      ],
+      "count": 281267,
+      "size": [
+        2048,
+        3447
+      ]
+    },
+    {
+      "date": "2025-07-15",
+      "image": "leaflet-index/radiance_images/radiance_image_20250715.png",
+      "bounds": [
+        [
+          10.0,
+          110.0
+        ],
+        [
+          40.0,
+          130.0
+        ]
+      ],
+      "count": 401374,
+      "size": [
+        2048,
+        3447
+      ]
+    }
+  ]
+}
